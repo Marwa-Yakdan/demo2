@@ -1,0 +1,20 @@
+    1  ls
+    2  cp README.md marwa
+    3  nano marwa
+    4  wc -l marwa
+    5  tail -8 marwa
+    6  tail marwa|-8 marwa
+    7  grep -98 marwa
+    8  more marwa
+    9  tail -n 7 marwa
+   10  tail -n 3 marwa | head -n 1 marwa
+   11  tail -n 3 marwa | head -n 1
+   12  grep "successful" marwa
+   13  grep "successful" marwa | wc -l
+   14  history | grep "mv"
+   15  history
+   16  history | grep "more"
+   17  history | grep "more" | wc -l | head 
+   18  history | grep "more" | head -n wc -l
+   19  history | grep "more" | head -n wc
+   20  history > myhisto

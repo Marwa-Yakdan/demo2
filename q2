@@ -1,0 +1,23 @@
+<html>
+<header> my page </header>
+<title> test </title>
+<body>
+<p> marwa </p>
+<strong> marwa </strong> <br>
+<p><i> <h1> marwa </h1></i></p> <br>
+<p><s> marwa </s></p> <br>
+<img src="https://www.google.iq/search?q=image&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjMjouT5JHSAhXCIJoKHUitAlYQ_AUICCgB&biw=1280&bih=694#imgrc=R03R_LFx7TPL8M:">
+
+<details>
+<summary> website </summary>
+<p>this is details about the website</p>
+</details>
+
+<nav>
+<a href="google.com"> google </a> <br>
+<a href="youtube.com"> youtube </a>
+</nav>
+
+<footer> 15/2/2017 </footer>
+</body>
+</html>
